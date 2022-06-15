@@ -1,18 +1,17 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: Update-MKDOCS
 # defeine TOC or order of website-
 nav:
   - Home: index.md
   - Page2: page2.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Phani Kumar
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
-
+repo_name: MKDOCS-REPO
+repo_url: https://github.com/funnyPhani/mkdocs-by-phani-updated-sheet
 # Configuration
 theme:
   name: material
@@ -40,13 +39,13 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
+      link: https://github.com/funnyPhani
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/c17hawke
+      link: https://twitter.com/phaniku32563480
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/c17hawke
+      link: https://linkedin.com/in/phani-kumar-630613101/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/c17hawke/
+      link: https://www.instagram.com/funny_p_h_a_n_i/
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -71,4 +70,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/funnyPhani"  target="_blank" rel="noopener">Phani Kumar</a>
